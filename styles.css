@@ -95,6 +95,13 @@ input[type=text] {
     transition: transform 1s ease-in-out;
 }
 
+.footer {
+    text-align: center;
+    color: gray;
+    opacity: 0.9;
+    margin-bottom: 20px;
+}
+
 @media screen and (max-width:600px) {
     .travel-image {
         width: 100%;
